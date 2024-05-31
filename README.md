@@ -63,3 +63,10 @@ Este párrafo está justificado utilizando la propiedad de alineación. Este pá
 
 Si el texto que debemos enfatizar se encuentra de un párrafo, podemos utilizar algunos trucos para ubicarlos en la documentación.
 
+##### Texto en Negrita (BOLD)
+
+Para poder poner el texto en negrita, este deberá ser encerrado entre doble **.
+
+EJEMPLO:
+
+Texto Texto Texto Texto Texto Texto Texto **Texto** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
