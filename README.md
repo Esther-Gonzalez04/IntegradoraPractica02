@@ -79,4 +79,11 @@ EJEMPLO:
 
 Texto Texto Texto Texto Texto Texto Texto *Texto* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
 
+##### Texto en Negrita/Cursiva (BOLD/ITALIC)
+
+Para poder poner el texto en negrita/cursiva, este deberá ser encerrado entre triple ***.
+
+EJEMPLO:
+
+Texto Texto Texto Texto Texto Texto Texto ***Texto*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
 
