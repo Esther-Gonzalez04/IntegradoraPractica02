@@ -70,3 +70,13 @@ Para poder poner el texto en negrita, este deberá ser encerrado entre doble **.
 EJEMPLO:
 
 Texto Texto Texto Texto Texto Texto Texto **Texto** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+
+##### Texto en Cursiva (ITALIC)
+
+Para poder poner el texto en cursiva, este deberá ser encerrado entre * o -.
+
+EJEMPLO:
+
+Texto Texto Texto Texto Texto Texto Texto *Texto* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+
+
