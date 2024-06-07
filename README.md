@@ -152,3 +152,12 @@ Las ligas son utilizadas para víncular elementos o referencias delproyecto dent
 **EJEMPLO**
 Mi buscador favorito es: [Google](https://www.google.com)
 
+Pero si deseamos poner solo las ligas directas o un correo electrónico podemos utilizas los símbolos \< \>
+
+**EJEMPLO**
+
+Documentación creada por: ***Esther González Peralta***
+
+<230297@utxicotepec.edu.mx>
+
+<http://www.utxicotepec.edu.mx>
