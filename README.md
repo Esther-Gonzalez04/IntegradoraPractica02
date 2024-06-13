@@ -161,3 +161,5 @@ Documentación creada por: ***Esther González Peralta***
 <230297@utxicotepec.edu.mx>
 
 <http://www.utxicotepec.edu.mx>
+
+![](https://github.com/Esther-Gonzalez04/IntegradoraPractica02/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.38%20PM.jpeg)
