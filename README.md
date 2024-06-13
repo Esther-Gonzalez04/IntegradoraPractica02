@@ -163,3 +163,5 @@ Documentación creada por: ***Esther González Peralta***
 <http://www.utxicotepec.edu.mx>
 
 ![](https://github.com/Esther-Gonzalez04/IntegradoraPractica02/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.38%20PM.jpeg)
+
+![](https://github.com/Esther-Gonzalez04/IntegradoraPractica02/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.39%20PM.jpeg)
