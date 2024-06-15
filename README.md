@@ -150,6 +150,7 @@ Para crear tu primer repositorio en GitHub deberás:
 Las ligas son utilizadas para víncular elementos o referencias delproyecto dentro del mismo repositorio o fuera de él. Y se maquetan utilizando los corchetes \[ \]
 
 **EJEMPLO**
+
 Mi buscador favorito es: [Google](https://www.google.com)
 
 Pero si deseamos poner solo las ligas directas o un correo electrónico podemos utilizas los símbolos \< \>
@@ -251,6 +252,13 @@ para las celdas, y en ellos utilizar la propiedad de *colspan* y *rowspan*
 
 
 
+#### 9. Imágenes
+Si la documentación n requiere de incorporar imágenes, esquemas, modelos, fotografías, o cualquier
+representación gráfica, utilizaremos la estructura de la ligas, maquetando el nombre la imagen
+entre corchetes con un signo de admiración de cierre y la liga de referencia a la imagen usando paréntesis.
+
+**EJEMPLO:**
+[!Pikachu](https://github.com/Esther-Gonzalez04/IntegradoraPractica02/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.38%20PM.jpeg)
 
 ![](https://github.com/Esther-Gonzalez04/IntegradoraPractica02/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.38%20PM.jpeg)
 
