@@ -173,9 +173,9 @@ delimitar las filas.
 
 | Encabezado 1 | Encabezado 2 | Encabezado 3 | Encabezado 4 |
 |-------------|---------------|--------------|---------------|
-| Fila 1 celda 1| | Fila 1 celda 2| | Fila 1 celda 3| | Fila 1 celda 4|
-| Fila 2 celda 1| | Fila 2 celda 2| | Fila 2 celda 3| | Fila 2 celda 4|
-| Fila 3 celda 1| | Fila 3 celda 2| | Fila 3 celda 3| | Fila 3 celda 4|
+| Fila 1 celda 1| Fila 1 celda 2| Fila 1 celda 3| Fila 1 celda 4|
+| Fila 2 celda 1| Fila 2 celda 2| Fila 2 celda 3| Fila 2 celda 4|
+| Fila 3 celda 1| Fila 3 celda 2| Fila 3 celda 3| Fila 3 celda 4|
 
 En caso de necesitar  la fusión de celdas en columnas usaremos la propiedad *colspan* del tag \<td> y 
 en el caso de necesitar la fusión de filas utilizaremos la propiedad *rowspan*.
