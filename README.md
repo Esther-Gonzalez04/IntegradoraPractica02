@@ -261,3 +261,5 @@ entre corchetes con un signo de admiración de cierre y la liga de referencia a 
 ![Logo_universidad](https://github.com/Esther-Gonzalez04/IntegradoraPractica02/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.38%20PM.jpeg)
 
 ![Logo_carrera](https://github.com/Esther-Gonzalez04/IntegradoraPractica02/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.39%20PM.jpeg)
+
+![Logo_carrera](https://pbs.twimg.com/media/GIPC9Kma4AAgONK.jpg:large)
