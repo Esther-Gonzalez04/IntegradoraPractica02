@@ -253,7 +253,7 @@ para las celdas, y en ellos utilizar la propiedad de *colspan* y *rowspan*
 
 
 #### 9. Imágenes
-Si la documentación n requiere de incorporar imágenes, esquemas, modelos, fotografías, o cualquier
+Si la documentación no requiere de incorporar imágenes, esquemas, modelos, fotografías, o cualquier
 representación gráfica, utilizaremos la estructura de la ligas, maquetando el nombre la imagen
 entre corchetes con un signo de admiración de cierre y la liga de referencia a la imagen usando paréntesis.
 
@@ -262,4 +262,4 @@ entre corchetes con un signo de admiración de cierre y la liga de referencia a 
 
 ![Logo_carrera](https://github.com/Esther-Gonzalez04/IntegradoraPractica02/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.39%20PM.jpeg)
 
-![Logo_carrera](https://pbs.twimg.com/media/GIPC9Kma4AAgONK.jpg:large)
+![Actriz](https://pbs.twimg.com/media/GIPC9Kma4AAgONK.jpg:large)
