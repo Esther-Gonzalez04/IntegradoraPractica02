@@ -258,7 +258,7 @@ representación gráfica, utilizaremos la estructura de la ligas, maquetando el 
 entre corchetes con un signo de admiración de cierre y la liga de referencia a la imagen usando paréntesis.
 
 **EJEMPLO:**
-[!Pikachu](https://github.com/Esther-Gonzalez04/IntegradoraPractica02/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.38%20PM.jpeg)
+![Pikachu](https://github.com/Esther-Gonzalez04/IntegradoraPractica02/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.38%20PM.jpeg)
 
 ![](https://github.com/Esther-Gonzalez04/IntegradoraPractica02/blob/main/WhatsApp%20Image%202024-06-12%20at%206.37.38%20PM.jpeg)
 
